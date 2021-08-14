@@ -1,6 +1,13 @@
 h1 {
-    color: red;
+    color: rgb(27, 0, 0);
+    font-size: 60px;
     }
 p {
     color:rgb(75, 6, 6);
+}
+body{
+    background-color: rgb(152, 250, 217);
+}
+img{
+    height: 200px;
 }
